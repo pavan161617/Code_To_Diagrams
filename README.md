@@ -18,7 +18,7 @@
 - Node.js Version: 16+  
 - React Version: 18+  
 - Python Version: 3.10+  
-- Libraries: react, react-dom, graphviz, d3, axios, flask (or fastapi), numpy, pandas  
+- Libraries: react, axios, flask , numpy, pandas  
 
 ## 📂 Project Structure
 📂 Code-to-Diagram  
